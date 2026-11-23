@@ -29,7 +29,7 @@ I enjoy developing real-world projects, solving complex problems, exploring new 
 | | |
 |---|---|
 | 🎓 **Education** | Software Engineering Undergraduate |
-| 💻 **Interests** | Software Engineering · AI/ML · Cybersecurity · Game Development |
+| 💻 **Interests** | Software Engineering · AI/ML · System Designing · Cybersecurity · Game Development |
 | 🚀 **Focus** | Building innovative projects and exploring emerging technologies |
 | 🎯 **Goal** | Build technology for the future and solve real-world problems |
 | 📍 **Location** | Sri Lanka 🇱🇰 |
